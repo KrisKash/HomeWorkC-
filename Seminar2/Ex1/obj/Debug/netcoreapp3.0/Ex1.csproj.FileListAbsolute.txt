@@ -1,0 +1,10 @@
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/bin/Debug/netcoreapp3.0/Ex1.deps.json
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/bin/Debug/netcoreapp3.0/Ex1.runtimeconfig.json
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/bin/Debug/netcoreapp3.0/Ex1.runtimeconfig.dev.json
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/bin/Debug/netcoreapp3.0/Ex1.dll
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/bin/Debug/netcoreapp3.0/Ex1.pdb
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/obj/Debug/netcoreapp3.0/Ex1.csprojAssemblyReference.cache
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/obj/Debug/netcoreapp3.0/Ex1.AssemblyInfoInputs.cache
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/obj/Debug/netcoreapp3.0/Ex1.AssemblyInfo.cs
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/obj/Debug/netcoreapp3.0/Ex1.dll
+/Users/a1/Documents/HomeWorkC#/Home/Seminar2/Ex1/obj/Debug/netcoreapp3.0/Ex1.pdb
