@@ -28,8 +28,8 @@ namespace Ex_27
                 int sum = 0;
                 for (int i = userNumber; i > 0;)
                 {
-                    sum = sum + userNumber % 10; //sum += i % 10;
-                    userNumber /= 10;            //i /= 10;
+                    sum = sum + i % 10; //sum += i % 10;
+                    i = i / 10;            //i /= 10;
                 } 
                 return sum;
             } 
