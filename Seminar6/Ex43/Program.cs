@@ -33,7 +33,8 @@ namespace Ex43
                 Console.WriteLine($"Точка пересечения двух прямых имеет координаты ({x};{y})");
                 return x;
             }
-
+            Console.WriteLine("Введите значения переменных b1, k1, b2, k2 для нахождения точки пересечения ");
+            Console.WriteLine("двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2");
             int b1 = GetNumberFromUser ("Введите значение b1: ");
             int k1 = GetNumberFromUser ("Введите значение k1: ");
             int b2 = GetNumberFromUser ("Введите значение b2: ");
