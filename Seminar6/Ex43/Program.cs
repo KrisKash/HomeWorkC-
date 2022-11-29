@@ -25,10 +25,9 @@ namespace Ex43
 
             double InterSectionPoint (double b1, double k1, double b2, double k2)
             {
-                double x = 0;
-                double y = 0;
-                x = (b2 - b1) / (k1 - k2);
-                y = k1 * x + b1;
+            
+                double x = (b2 - b1) / (k1 - k2);
+                double y = k1 * x + b1;
                 // int y = k2 * x + b2;
                 Console.WriteLine($"Точка пересечения двух прямых имеет координаты ({x};{y})");
                 return x;
