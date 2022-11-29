@@ -15,7 +15,7 @@ namespace Ex41
 
             int [] GetUserArray (int length, int start, int end)
             {
-                Console.Write("Введите количество элементов массива чисел: ");
+                Console.Write("Введите число М (количество вводимых чисел): ");
 
                 length = int.Parse(Console.ReadLine());
                 int [] array = new int [length];
