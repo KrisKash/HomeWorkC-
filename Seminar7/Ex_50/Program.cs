@@ -96,8 +96,7 @@ namespace Ex_50
                         Console.WriteLine("Такого числа в массиве нет");
                         Console.ResetColor();
                         Console.WriteLine();
-                    } 
-                  
+                    }                   
             }
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Двумерный массив:");
