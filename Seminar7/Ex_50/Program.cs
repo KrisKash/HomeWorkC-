@@ -75,7 +75,15 @@ namespace Ex_50
             {                
                 Console.Write("Введите позицию элемента: ");
                 int userElement = int.Parse(Console.ReadLine());
-                if (userElement > array.Length)
+                for (int i = 0; i <= array.Length; i++)
+                {
+                    if (userElement == i)
+                    {
+                        Console.WriteLine ($" Значение элемента под индексом {userElement} = {array[i]}");
+                    }                           
+                } 
+                
+                if (userElement > array.Length )
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("Такого числа в массиве нет");
@@ -90,14 +98,6 @@ namespace Ex_50
                         Console.WriteLine();
                     } 
                   
-                for (int i = 0; i <= userElement; i++)
-                {
-                    if (userElement == i)
-                    {
-                        Console.WriteLine ($" Значение элемента под индексом {userElement} = {array[i]}");
-                    }                   
-                }  
-                    
             }
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Двумерный массив:");
