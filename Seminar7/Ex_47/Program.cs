@@ -14,6 +14,8 @@ namespace Ex_47
             1 -3,3 8 -9,9
             8 7,8 -7,1 9
             */
+
+
             double [,] generate2DArray(int lengthRow, int lengthCol, int deviation)
             {
                 double [,] array = new double [lengthRow,lengthCol];
@@ -41,6 +43,7 @@ namespace Ex_47
             }
             double [,] array = generate2DArray(3,4,100);
             print2dArray(array);
+            Console.WriteLine();
 
         }
     }
