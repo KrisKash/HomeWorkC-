@@ -75,7 +75,7 @@ namespace Ex_50
             {                
                 Console.Write("Введите позицию элемента: ");
                 int userElement = int.Parse(Console.ReadLine());
-                for (int i = 0; i <= array.Length; i++)
+                for (int i = 0; i < array.Length; i++)
                 {
                     if (userElement == i)
                     {

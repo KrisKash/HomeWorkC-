@@ -72,8 +72,7 @@ namespace Ex_52
             }
             
 
-            int[,] array = generate2DArray(4, 4, 10);
-            
+            int[,] array = generate2DArray(4, 4, 10);            
             print2dArray(array);
             Console.WriteLine();
             AverageArray(array);
